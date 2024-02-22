@@ -15,7 +15,7 @@ dist/
 dist-ssr/
 
 # Environment files
-# Skipping dotenv related entries as per request
+*.env
 
 # Editor directories and files
 .vscode/
@@ -26,10 +26,6 @@ dist-ssr/
 *.ntvs*
 *.njsproj
 *.sln
-<<<<<<< HEAD
-=======
-*.env
->>>>>>> 91c49c5 (remove some files)
 *.sw?
 
 # Other local files
