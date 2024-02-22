@@ -25,3 +25,11 @@ To get a local copy up and running follow these simple steps.
 
 ```bash
 npm install npm@latest -g
+<<<<<<< HEAD
+=======
+
+
+### Copyright 
+
+⭐️ [Copyright 2024 Eng Fidow ](https://www.engfidow.com/)
+>>>>>>> 91c49c5 (remove some files)
